@@ -1,0 +1,5 @@
+[name@server]$ ssh -Y username@machine_name
+
+ssh josephine.bregazzi@arc.ucalgary.ca
+    # password is the same as IT account
+    
